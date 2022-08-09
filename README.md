@@ -1,4 +1,4 @@
-# Aleksandr-Trofimoff
+
 <!DOCTYPE html>
 <html>
   <head>
